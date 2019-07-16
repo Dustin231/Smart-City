@@ -1,4 +1,6 @@
---Project descript--
+# Smart Cities Project description
+Pratyusha Bhattacharya | Kaushik Sadhu | Thach Vu
+
 Project uses Motion sensor, temperature sensor and light sensor
 - Motion sensor is used to detect human to turn on and turn off the light in the building
 - Temperature sensor is used to measure temperate to turn on and turn off the fan, also depending on the human detection condition.
