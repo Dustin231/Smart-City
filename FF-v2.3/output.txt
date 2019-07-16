@@ -1,0 +1,31 @@
+
+ff: parsing domain file
+domain 'SMARTCITIES' defined
+ ... done.
+ff: parsing problem file
+problem 'PB_SMARTCITIES' defined
+ ... done.
+
+
+
+Cueing down from goal distance:    4 into depth [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: TURNFANON HOT DETECTED
+        1: TURNLIGHTON DETECTED
+        2: TURNFRONTLIGHTOFF HIGH
+        3: CLOSEDOOR NOTPRESS
+     
+
+time spent:    0.00 seconds instantiating 10 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 12 facts and 4 actions
+               0.00 seconds creating final representation with 8 relevant facts
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 6 states, to a max depth of 1
+               0.00 seconds total time
+
